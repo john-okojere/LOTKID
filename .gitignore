@@ -1,0 +1,10 @@
+db.sqlite3
+media/
+home/static/
+
+home/__pycache__
+
+LOTKID/__pycache__
+
+LOTKID/migrations/*
+!LOTKID/migrations/__init__.py
